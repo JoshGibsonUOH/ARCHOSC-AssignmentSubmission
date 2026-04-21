@@ -27,7 +27,6 @@ Before doing <strong>any</strong> of this, you must ensure that you have complet
 ## Preparing To Submit
 
 Before you submit your completed website, you must ensure that it has the following:
-- [ ] A page containing the content from the "Using the Command Line" lab, including screenshots and descriptions.
 - [ ] A page contraining the content from the GitHub and CICD Lab 1 including screenshots and descriptions.
 - [ ] A page contraining the content from the GitHub and CICD Lab 2 including screenshots and descriptions.
 (You may have decided to merge these into one lab - if this is the case that is also fine).
@@ -51,6 +50,8 @@ If either of these are missing - and I cannot find your repository - you can los
 When completed, your submission should look similar to this (Although they will likely be differences in things like filenames.)
 
 ![Image](Pictures/SubmissionStructure.png)
+
+You should then compress this into a .ZIP folder, and upload that to Canvas.
 
 For extra clarity on where to get your GitHub links from, to get your GitHub pages link you can either open your site in the browser and copy it directly from the address bar:
 
