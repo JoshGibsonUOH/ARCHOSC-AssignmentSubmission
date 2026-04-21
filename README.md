@@ -27,25 +27,25 @@ Before doing <strong>any</strong> of this, you must ensure that you have complet
 ## Preparing To Submit
 
 Before you submit your completed website, you must ensure that it has the following:
-- [] A page containing the content from the "Using the Command Line" lab, including screenshots and descriptions.
-- [] A page contraining the content from the GitHub and CICD Lab 1 including screenshots and descriptions.
-- [] A page contraining the content from the GitHub and CICD Lab 2 including screenshots and descriptions.
+- [ ] A page containing the content from the "Using the Command Line" lab, including screenshots and descriptions.
+- [ ] A page contraining the content from the GitHub and CICD Lab 1 including screenshots and descriptions.
+- [ ] A page contraining the content from the GitHub and CICD Lab 2 including screenshots and descriptions.
 (You may have decided to merge these into one lab - if this is the case that is also fine).
-- [] A page containing the content from the Accessing and Using a Virtual Machine lab including screenshots and descriptions.
-- [] A page containing the content from the Developing in a Virtual Machine lab including screenshots and descriptions.
+- [ ] A page containing the content from the Accessing and Using a Virtual Machine lab including screenshots and descriptions.
+- [ ] A page containing the content from the Developing in a Virtual Machine lab including screenshots and descriptions.
 (Again, You may have decided to merge these into one lab - if this is the case that is also fine).
-- [] A page containing the content from the OS scheduling lab including screenshots, descriptions and any other outputs.
-- [] A page containing the content from the OS Memory and MMU lab including screenshots, descriptions and any other outputs.
-- [] A page containing the content from the Resource Allocation lab including screenshots, descriptions and any other outputs.
-- [] (If Completed) A page containing the information on the custom feature you included, and how it was created.
+- [ ] A page containing the content from the OS scheduling lab including screenshots, descriptions and any other outputs.
+- [ ] A page containing the content from the OS Memory and MMU lab including screenshots, descriptions and any other outputs.
+- [ ] A page containing the content from the Resource Allocation lab including screenshots, descriptions and any other outputs.
+- [ ] (If Completed) A page containing the information on the custom feature you included, and how it was created.
 
 ## Your Submission
 
 When all of the above is completed, and visible on your web page, your submission should include the following. 
 
-- [] Your entire portfolio, as it appears in your GitHub repository.
+- [ ] Your entire portfolio, as it appears in your GitHub repository.
 (The easiest way of doing this, would be to create a new folder, call it submission and then clone your website into it, this way you know it is the upto date version)
-- [] A notepad document that contains both a link to the hosted version of your website (so the one you get to from GitHub actions, and your repository.)
+- [ ] A notepad document that contains both a link to the hosted version of your website (so the one you get to from GitHub actions, and your repository.)
 If either of these are missing - and I cannot find your repository - you can lose up to 20 marks!
 
 When completed, your submission should look similar to this (Although they will likely be differences in things like filenames.)
