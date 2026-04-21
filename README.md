@@ -30,6 +30,7 @@ Before you submit your completed website, you must ensure that it has the follow
 - [ ] A page contraining the content from the GitHub and CICD Lab 1 including screenshots and descriptions.
 - [ ] A page contraining the content from the GitHub and CICD Lab 2 including screenshots and descriptions.
 (You may have decided to merge these into one lab - if this is the case that is also fine).
+- [ ] A page contraining the content from the HTML, CSS and Javascript Lab including screenshots and descriptions.
 - [ ] A page containing the content from the Accessing and Using a Virtual Machine lab including screenshots and descriptions.
 - [ ] A page containing the content from the Developing in a Virtual Machine lab including screenshots and descriptions.
 (Again, You may have decided to merge these into one lab - if this is the case that is also fine).
